@@ -8,5 +8,6 @@ nav:
   - Troubleshooting: troubleshooting.md
   - Projects: projects.md
   - ÖkoProjekt: oekoprofit.md
-  - Confluence-Projektvorlage: reference/confluence-project-template.md
+  - Referenzen:
+    - Confluence-Projektvorlage: referenzen/confluence-project-template.md
 
