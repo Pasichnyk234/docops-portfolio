@@ -86,6 +86,48 @@ Create clear instructions for beginners and experienced users: what to do, in wh
 
 ---
 
-## Contact
-- LinkedIn: (add your link)
-- GitHub: (your profile)
+Project 4 — Automated Content Workflow (n8n + AI Tools)
+
+Role: Workflow designer / Automation builder (no-code)
+Context: End-to-end automation for generating short video content (topic research → script → voice → visuals → assembly → publishing/archiving).
+
+Goal
+
+Reduce manual work and build a repeatable pipeline: faster content production, consistent structure, and traceable outputs.
+
+What I built
+
+Designed a modular n8n workflow with clear stages (input → processing → generation → QA → output).
+
+Integrated data sources (e.g., Google Sheets / Airtable) for topic and target group selection.
+
+Added AI steps for research and text generation (OpenAI / Perplexity or equivalent).
+
+Implemented “human-in-the-loop” checkpoints (review before publishing).
+
+Structured output artifacts (captions, scripts, metadata, file naming, archive paths).
+
+Tools & stack
+
+n8n • OpenAI / Perplexity • Google Sheets • Airtable • ElevenLabs (voice) • Creatomate / Kling / Flux / HeyGen (optional) • Telegram / Drive (optional)
+
+Evidence (portfolio artifacts)
+
+✅ Workflow diagram (screenshot + short explanation)
+✅ Example input row (Google Sheet) + generated output (script/captions)
+✅ JSON snippets of key nodes (sanitized)
+✅ Before/after: manual vs automated steps (small table)
+
+Outcome / impact
+
+Cut repetitive steps and reduced time per content piece (describe roughly, even “~30–50% less manual work”).
+
+Improved consistency: same structure, naming, metadata, and checkpoints every run.
+
+What I learned
+
+Designing reliable automations (error handling, retries, logging).
+
+Prompting for reusable outputs (templates, constraints, validation).
+
+Building maintainable workflows with clear modules.
