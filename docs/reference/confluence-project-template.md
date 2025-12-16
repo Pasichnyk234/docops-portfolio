@@ -1,157 +1,179 @@
-# Confluence-Projektseite – Vorlage (ÖkoProfit)
+# Confluence-Vorlage: ÖkoProfit – Projektseite (Standard)
 
-> **Zweck:** Diese Seite ist eine **Standardvorlage** für Projektseiten im ÖkoProfit-Wiki.  
-> Sie sorgt für **einheitliche Struktur**, **klare Verantwortlichkeiten** und **gute Auffindbarkeit**.
+> **Zweck dieser Vorlage:** Einheitliche, gut auffindbare und pflegbare Projektseiten im ÖkoProfit-Wiki.  
+> **Hinweis:** Inhalte sind als Dummy/Platzhalter formuliert und müssen pro Projekt angepasst werden.
 
 ---
 
 ## 1. Kurzüberblick
 
-**Projektname:** ÖkoProfit – Green Campus Pasing (Dummy)  
-**Projektstatus:** 🟡 In Bearbeitung / 🟢 Aktiv / 🔴 Pausiert / ✅ Abgeschlossen  
-**Owner / Verantwortlich:** [Team/Person verlinken]  
-**Letztes Update:** YYYY-MM-DD  
-**Zeitraum:** YYYY-MM-DD bis YYYY-MM-DD  
-**Zielgruppe:** Studierende / Mitarbeitende / Externe Partner  
-**Tags:** ÖkoProfit, Nachhaltigkeit, Confluence, Wissensmanagement
+**Projektname:** ÖkoProfit – Green Campus Pasing (Beispiel)  
+**Status:** 🟡 In Arbeit / 🟢 Aktiv / 🔴 Pausiert / ✅ Abgeschlossen  
+**Owner (fachlich):** Vorname Nachname (Rolle/Team)  
+**Kontakt:** E-Mail / Teams / Slack  
+**Letzte Aktualisierung:** YYYY-MM-DD  
+**Gültig ab:** YYYY-MM-DD  
+**Zielgruppe:** Studierende / Mitarbeitende / Projektteam / Öffentlichkeit  
+**Tags (Pflicht):** ÖkoProfit, Nachhaltigkeit, Campus, Wissensmanagement  
+**Vertraulichkeit:** Öffentlich / Intern / Nur Projektteam
 
-**One-Liner (max. 2 Sätze):**  
-Dieses Projekt bündelt Nachhaltigkeitsmaßnahmen am Campus und dokumentiert Prozesse, Ergebnisse und Learnings zentral im Wiki.
-
----
-
-## 2. Hintergrund & Kontext
-
-**Ausgangslage:**  
-- (Warum gibt es dieses Projekt? Welche Lücke/Problem im Alltag?)  
-- Beispiel: Inhalte waren verteilt, Standards fehlten, Aktualisierung war unklar.
-
-**Rahmenbedingungen:**  
-- Stakeholder (z. B. HM, ÖkoProfit-Team, Fachbereiche)  
-- Tools/Plattformen (Confluence, ggf. Jira, SharePoint, GitHub)
+**Kurzbeschreibung (2–3 Sätze):**  
+Dieses Projekt dokumentiert Maßnahmen und Ergebnisse im Rahmen von ÖkoProfit am Standort X. Ziel ist es, Wissen zentral zu bündeln, Standards zu definieren und Fortschritte nachvollziehbar zu machen.
 
 ---
 
-## 3. Ziele & Erfolgskriterien
+## 2. Ziel & Nutzen
 
-### 3.1 Projektziele
-- Ziel 1: Einheitliche Projektseiten-Struktur im Wiki etablieren
-- Ziel 2: Verantwortlichkeiten + Aktualität transparent machen
-- Ziel 3: Wiederverwendbare Vorlagen für Artikeltypen bereitstellen
+### 2.1 Projektziele (SMART, wenn möglich)
+- Ziel 1: … (Messbar bis Datum)
+- Ziel 2: …
+- Ziel 3: …
 
-### 3.2 Erfolgskriterien (messbar)
-- Mind. X Projektseiten nach Standard erstellt
-- Jede Projektseite hat Owner + Datum + Status
-- Navigation/Links funktionieren konsistent (z. B. „Weiterführend“)
+### 2.2 Nutzen / Mehrwert
+- Für Studierende: …
+- Für Projektteam: …
+- Für Hochschule/Organisation: …
 
----
-
-## 4. Stakeholder & Verantwortung
-
-| Rolle | Name/Team | Verantwortung |
-|---|---|---|
-| Owner | [Link] | Fachliche Verantwortung, Freigabe |
-| Redaktion | [Link] | Struktur, Qualität, Templates |
-| Contributors | [Link] | Inhalte erstellen/aktualisieren |
-| Review | [Link] | Prüfung/Feedback |
-
-**Kontakt:**  
-- E-Mail/Teams/Slack/Confluence Mention (je nach Setup)
+### 2.3 Erfolgskriterien (Definition of Done)
+- ✅ Kriterium 1: …
+- ✅ Kriterium 2: …
+- ✅ Kriterium 3: …
 
 ---
 
-## 5. Umfang (Scope)
+## 3. Scope (Umfang)
 
-### 5.1 In Scope
-- Projektseiten-Vorlage inkl. Pflichtfelder (Owner, Status, Update)
-- Leitfaden für Struktur, Sprache, Links, Metadaten
-- Dummy-Beispielseite zur Orientierung
+### 3.1 In Scope (enthalten)
+- …
+- …
 
-### 5.2 Out of Scope
-- Vertrauliche Daten/Reporting (Budget, personenbezogene Daten)
-- Tool-Automationen (kann als Folgeprojekt dokumentiert werden)
-
----
-
-## 6. Vorgehen & Arbeitsweise
-
-**Arbeitsprinzipien:**
-- „Overview first“: Wichtiges oben, Details unten
-- Modular: Inhalte als wiederverwendbare Bausteine
-- Pflegeleicht: kurze Absätze, klare Listen, Tabellen statt Fließtext
-
-**Versionierung:**
-- Änderungen werden über „Änderungsprotokoll“ dokumentiert  
-- Optional: GitHub/MkDocs als öffentliches Portfolio-Spiegelbild
+### 3.2 Out of Scope (nicht enthalten)
+- …
+- …
 
 ---
 
-## 7. Projektplan / Meilensteine
+## 4. Rollen & Verantwortlichkeiten
 
-| Meilenstein | Datum | Status | Ergebnis |
-|---|---:|---|---|
-| Vorlage v1 erstellt | YYYY-MM-DD | ✅ | Projektseiten-Struktur steht |
-| Pilot-Seiten erstellt | YYYY-MM-DD | 🟡 | 3 Seiten nach Standard |
-| Review & Verbesserungen | YYYY-MM-DD | 🟡 | Feedback eingearbeitet |
-| Rollout | YYYY-MM-DD | ⬜ | Team nutzt Standard |
+| Rolle | Name | Verantwortung | Vertretung |
+|------|------|---------------|-----------|
+| Owner (fachlich) | … | Entscheidung, Freigabe | … |
+| Redaktion / Doku | … | Struktur, Qualität, Updates | … |
+| Stakeholder | … | Input, Review | … |
 
----
-
-## 8. Deliverables / Ergebnisse
-
-- ✅ Confluence-Projektseiten-Vorlage (diese Seite)
-- ✅ Dummy-Beispielprojektseite
-- ✅ Redaktionsleitfaden (Formatregeln + Metadaten + Link-Standard)
-- ⬜ Schulungs-/Onboarding-Abschnitt für neue Contributors
+**Kommunikationskanäle:**  
+- Teams/Channel: …  
+- Regeltermine: … (z. B. wöchentlich, 30 Min)
 
 ---
 
-## 9. Risiken & Offene Punkte
+## 5. Zeitplan & Meilensteine
 
-**Risiken:**
-- Seiten werden ohne Owner/Update gepflegt → veralten
-- Unterschiedliche Schreibweisen/Tags → schlechte Suche
-
-**Gegenmaßnahmen:**
-- Pflichtfelder oben
-- Checkliste vor Veröffentlichung
-- feste Namenskonventionen für Links & Titel
-
-**Offene Punkte:**
-- Wer darf Templates ändern?
-- Welche Tags sind „offiziell“ (Controlled Vocabulary)?
+| Meilenstein | Beschreibung | Datum | Status |
+|------------|--------------|------:|:------:|
+| M1 | Kick-off | YYYY-MM-DD | 🟡 |
+| M2 | Zwischenstand / Review | YYYY-MM-DD | 🟢 |
+| M3 | Abschluss & Abnahme | YYYY-MM-DD | 🔴/✅ |
 
 ---
 
-## 10. Verlinkungen & Quellen
+## 6. Arbeitsstände / Arbeitspakete
 
-### 10.1 Verlinkungsstandard (kurz)
-- Linktexte nach Schema: **Artikeltyp: „Titel“**  
-  Beispiel: *Richtlinie: „Zugriffsrechte“*, *How-To: „VPN einrichten“*
-- Pro Seite: 3–5 sinnvolle Links „Weiterführend“
+### 6.1 Arbeitspaket 1 – Titel
+**Ziel:** …  
+**Aktivitäten:**  
+- Schritt 1: …
+- Schritt 2: …
 
-### 10.2 Weiterführend
-- [Link zur Wissensübersicht / Startseite]
-- [Link zu Richtlinien]
-- [Link zu Templates]
-- [Link zu Glossar]
+**Ergebnis/Output:** …  
+**Owner:** …  
+**Status:** 🟡/🟢/🔴/✅
 
----
-
-## 11. Qualitäts-Checkliste (vor „Publish“)
-
-- [ ] Owner + Status + Letztes Update gesetzt
-- [ ] Ziel & Nutzen im Kurzüberblick klar
-- [ ] Struktur vollständig (keine leeren Überschriften)
-- [ ] Links funktionieren
-- [ ] Keine sensiblen Daten enthalten
-- [ ] Sprache: klar, kurz, aktiv
+### 6.2 Arbeitspaket 2 – Titel
+(gleiches Muster)
 
 ---
 
-## 12. Änderungsprotokoll
+## 7. Ergebnisse & Deliverables
+
+### 7.1 Deliverables (Liste)
+- Deliverable 1 (Link/Ort): …
+- Deliverable 2: …
+- Deliverable 3: …
+
+### 7.2 Nachweise / Artefakte
+- Protokolle: …
+- Screenshots/Reports: …
+- Entscheidungen: …
+
+---
+
+## 8. Risiken, offene Punkte, Entscheidungen
+
+### 8.1 Risiken
+| Risiko | Auswirkung | Wahrscheinlichkeit | Maßnahme | Owner |
+|-------|------------|--------------------|----------|------|
+| … | … | niedrig/mittel/hoch | … | … |
+
+### 8.2 Offene Punkte
+- [ ] Offener Punkt 1 …
+- [ ] Offener Punkt 2 …
+
+### 8.3 Entscheidungen (Decision Log)
+| Datum | Entscheidung | Begründung | Owner |
+|------:|-------------|------------|------|
+| YYYY-MM-DD | … | … | … |
+
+---
+
+## 9. Verlinkungen & Quellen (Pflicht)
+
+### 9.1 Verwandte Wiki-Seiten
+- Richtlinie: „…“ (Link)
+- How-To: „…“ (Link)
+- Checkliste: „…“ (Link)
+- Projektübersicht/Navigation: „…“ (Link)
+
+### 9.2 Externe Quellen
+- Quelle 1: …
+- Quelle 2: …
+
+---
+
+## 10. Änderungsprotokoll (Changelog)
 
 | Datum | Änderung | Autor:in |
-|---:|---|---|
-| YYYY-MM-DD | Vorlage v1 erstellt | [Name] |
-| YYYY-MM-DD | Abschnitt „Checkliste“ ergänzt | [Name] |
+|------:|----------|----------|
+| YYYY-MM-DD | Erste Version | … |
+| YYYY-MM-DD | Abschnitt X ergänzt | … |
+
+---
+
+# Mini-Redaktionsleitfaden (kurz)
+
+## Pflichtfelder (Minimum)
+- Projektname, Status, Owner, Letzte Aktualisierung, Zielgruppe, Tags, Vertraulichkeit
+- Ziele + Erfolgskriterien
+- Verantwortlichkeiten
+- Verlinkungen (mind. 3 interne Links)
+
+## Schreibstil
+- Klar, aktiv, kurz (max. 4–6 Zeilen pro Absatz)
+- Listen & Tabellen bevorzugen
+- Kein “Storytelling”, sondern nachvollziehbare Infos (Was? Warum? Wie? Ergebnis?)
+
+## Struktur-Regeln
+- H1 nur einmal pro Seite (Projektname)
+- Einheitliche Überschriften (Kurzüberblick → Ziele → Scope → Rollen → Zeitplan → Arbeitspakete → Ergebnisse → Risiken → Links → Changelog)
+- Jede Seite endet mit Changelog + Links
+
+## Link-Standard (Empfehlung)
+Linktexte nach Schema:
+- **Artikeltyp: „Titel“** (z. B. *How-To: „Seite anlegen“*, *Richtlinie: „Zugriffsrechte“*)
+
+## Qualität-Check vor „offiziell“
+- [ ] Owner gesetzt + Datum aktualisiert
+- [ ] Ziele & Erfolgskriterien vorhanden
+- [ ] Mind. 1 Deliverable verlinkt
+- [ ] Risiken/Offene Punkte gepflegt
+- [ ] Mind. 3 interne Links gesetzt
