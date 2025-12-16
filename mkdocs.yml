@@ -1,10 +1,13 @@
 site_name: DocOps Portfolio
+site_url: https://pasichnyk234.github.io/docops-portfolio/
+
 nav:
   - Home: index.md
   - How-To: how-to.md
   - Reference: reference.md
   - Troubleshooting: troubleshooting.md
   - Projects: projects.md
-  - Ökoprojekt: ökoprofit.md
-  - Reference:
-      - Confluence-Projektvorlage: reference/confluence-project-template.md
+  - ÖkoProjekt: oekoprofit.md
+  - Vorlagen:
+      - Confluence-Projektvorlage: reference/confluence-projektvorlage.md
+
