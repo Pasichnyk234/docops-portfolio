@@ -1,0 +1,6 @@
+site_name: DocOps Portfolio
+nav:
+  - Home: index.md
+  - How-To: how-to.md
+  - Reference: reference.md
+  - Troubleshooting: troubleshooting.md
