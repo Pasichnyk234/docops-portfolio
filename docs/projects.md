@@ -22,7 +22,7 @@ Make documentation clearer, more consistent, and reusable so users can find info
 - COSIMA go!
 - GitHub (portfolio/versioning)
 - Markdown / MkDocs (personal DocOps portfolio)
-- (add if relevant: Jira / Confluence / Excel / Figma)
+- Jira / Confluence / Excel / Figma
 
 ### Evidence (portfolio artifacts)
 - ✅ Example: Procedure (How-To): “…” (add link/file)
